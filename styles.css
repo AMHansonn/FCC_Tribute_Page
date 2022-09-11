@@ -1,0 +1,12 @@
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  align: center;
+}
+* {
+  font-family: arial;
+  text-align: center;
+  background-color: #90EE90;
+  color: #023020;
+}
